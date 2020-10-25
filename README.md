@@ -1,4 +1,9 @@
-### Hi there 👋
+### Servus 👋
+
+I'm Dominik. I spent a lot of time writing code and even more reading it.
+
+By day I work as a web-developer at a big company. By night I am currently trying to earn my bachelors-degree. <sup>(What is sleep?)</sup>
+
 
 <!--
 **wgnrd/wgnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
