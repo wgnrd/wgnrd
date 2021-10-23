@@ -1,10 +1,10 @@
-### Servus 👋
-
-I'm Dominik. I spent a lot of time writing code and even more reading it.
-
-By day I work as a web-developer at a big company. By night I am currently trying to earn my bachelors-degree. <sup>(What is sleep?)</sup>
-
-
+<p align="center"><strong>Servus 👋</strong><br><br>
+  <samp>I'm Dominik. I spent a lot of time writing code and even more reading it.
+  <br>By day I work as a web-developer at a big company. 
+  <br>By night I am currently learning new tech stuff. <sup>(What is sleep?)</sup>
+  <br><br></samp>
+  <image src="https://media.giphy.com/media/XKSPsk67cnCw0/giphy.gif">
+</p>
 <!--
 **wgnrd/wgnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
